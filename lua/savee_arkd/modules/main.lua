@@ -1702,7 +1702,7 @@ else
         [RENDERGROUP_OPAQUE_HUGE] = true,
         [RENDERGROUP_BOTH] = true,
     }
-
+ ---
     Savee_ARKD.FunctionHooks.Add("Entity.DrawModel", "Savee_AdvRagKnockdown_SuspendInsufficientDraw",
         function(ent, fl, ...)
             --do return __undetoured(ent, fl, ...) end
