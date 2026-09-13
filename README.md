@@ -1,5 +1,5 @@
 # Requirement
-funchooks - [here](https://github.com/Ec2dieBee/funchooks)  
+Savee.FunctionHooks - [here](https://github.com/Ec2dieBee/Savee.FunctionHooks)  
 A functional brain that knows how to install this and can understand Chinese(or at least machinetranslate them)  
 ---
 # Introduction

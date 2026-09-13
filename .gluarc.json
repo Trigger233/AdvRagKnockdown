@@ -1,0 +1,8 @@
+{
+  "diagnostics": {
+    "globals": [
+      "__undetoured",
+      "__raw"
+    ]
+  }
+}
